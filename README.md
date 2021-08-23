@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at https://www.google.com/url?sa=t&source=web&rct=j&url=https://github.com/&ved=2ahUKEwjy0MfgtsfyAhUBXSsKHbHlCbcQFnoECD8QAg&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw
 
 - 💬 Ask me about **Html css tailwind javascript**
 
