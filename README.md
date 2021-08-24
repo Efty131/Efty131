@@ -1,5 +1,5 @@
 
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼𝘄 👋,I'ɯ 
+<h1 align="center">𝗛𝗶 👋,I'ɯ 
 🇪 🇫 🇹 🇾 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efty131&label=Profile%20views&color=0e75b6&style=flat" alt="efty131" /> </p>
 
