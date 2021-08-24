@@ -1,6 +1,5 @@
 
-<h1 align="center">𝗛𝗶 👋I'ɯ 
-🇪🇫 🇹🇾 </h1>
+<h1 align="center">𝗛𝗶 👋I'ɯ 𝙀𝙁𝙏𝙔</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efty131&label=Profile%20views&color=0e75b6&style=flat" alt="efty131" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efty131" alt="efty131" /></a> </p>
