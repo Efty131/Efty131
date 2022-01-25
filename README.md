@@ -1,4 +1,15 @@
 
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React js 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Efty131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/EftyEfty75)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efty131)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Efty131&show_icons=true&count_private=true)  
+
+
 <h1 align="center">𝗛𝗶 👋I'ɯ 𝙀𝙁𝙏𝙔</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efty131&label=Profile%20views&color=0e75b6&style=flat" alt="efty131" /> </p>
 
